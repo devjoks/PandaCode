@@ -1,0 +1,15 @@
+.navMenu{
+    height: 3.125rem;
+    background-color: rgba(234, 234, 234, 0.5);
+    h4, h6{
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        color: #313131;
+    }
+    h6:hover{
+        color: #ff2e63;
+    }
+    nav{
+        padding: 0;
+    }
+}
